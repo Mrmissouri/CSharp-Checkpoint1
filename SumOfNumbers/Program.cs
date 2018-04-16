@@ -9,7 +9,7 @@ namespace SumOfNumbers
 
 
 
-            string exit = "exit";
+
             string input = "";
             int number = 0;
             int total = 0;

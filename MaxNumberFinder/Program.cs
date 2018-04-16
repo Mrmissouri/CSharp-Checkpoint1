@@ -16,8 +16,6 @@ namespace MaxNumberFinder
             input = Console.ReadLine();
 
 
-
-
             try
             {
                 numberList = Array.ConvertAll(input.Split(','), int.Parse);
