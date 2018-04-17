@@ -9,14 +9,18 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfNumbers", "SumOfNumber
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorialApp", "FactorialApp\FactorialApp.csproj", "{C900083D-AA6A-465A-9603-44EA4049421A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumberGuess", "RandomNumberGuess\RandomNumberGuess.csproj", "{11BB8AF7-84FC-4222-8230-CFC9A6BE0487}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomNumberGuess", "RandomNumberGuess\RandomNumberGuess.csproj", "{11BB8AF7-84FC-4222-8230-CFC9A6BE0487}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxNumberFinder", "MaxNumberFinder\MaxNumberFinder.csproj", "{97CCFF62-BA16-4DD7-82B1-8859F949085C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxNumberFinder", "MaxNumberFinder\MaxNumberFinder.csproj", "{97CCFF62-BA16-4DD7-82B1-8859F949085C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6C98700C-19BA-49DF-9C0E-3BC9F939B3AB}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MakeUpAssignments", "MakeUpAssignments", "{C834E22F-0511-4D33-8960-415104351B0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{7260C985-9115-45A7-A9DD-5AF7533D1000}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,9 +48,16 @@ Global
 		{97CCFF62-BA16-4DD7-82B1-8859F949085C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97CCFF62-BA16-4DD7-82B1-8859F949085C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97CCFF62-BA16-4DD7-82B1-8859F949085C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7260C985-9115-45A7-A9DD-5AF7533D1000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7260C985-9115-45A7-A9DD-5AF7533D1000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7260C985-9115-45A7-A9DD-5AF7533D1000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7260C985-9115-45A7-A9DD-5AF7533D1000}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7260C985-9115-45A7-A9DD-5AF7533D1000} = {C834E22F-0511-4D33-8960-415104351B0D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A8CAE089-C6F8-4D34-AD55-12CBADE5009A}
