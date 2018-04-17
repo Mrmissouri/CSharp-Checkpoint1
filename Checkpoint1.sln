@@ -20,7 +20,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MakeUpAssignments", "MakeUpAssignments", "{C834E22F-0511-4D33-8960-415104351B0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{7260C985-9115-45A7-A9DD-5AF7533D1000}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigLatin", "ConsoleApp1\PigLatin.csproj", "{7260C985-9115-45A7-A9DD-5AF7533D1000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigLatin2", "PigLatin2\PigLatin2.csproj", "{F0436B97-B4C1-4782-BC2B-AFFB78915660}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -52,6 +54,10 @@ Global
 		{7260C985-9115-45A7-A9DD-5AF7533D1000}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7260C985-9115-45A7-A9DD-5AF7533D1000}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7260C985-9115-45A7-A9DD-5AF7533D1000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0436B97-B4C1-4782-BC2B-AFFB78915660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0436B97-B4C1-4782-BC2B-AFFB78915660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0436B97-B4C1-4782-BC2B-AFFB78915660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0436B97-B4C1-4782-BC2B-AFFB78915660}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
