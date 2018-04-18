@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigLatin2", "PigLatin2\PigL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{BB3A2F00-A3CD-42DB-9853-657B05C2CA74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer2", "Timer2\Timer2.csproj", "{9FDF3957-2CB0-4B29-8F3B-4BFF6E0E6DFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,6 +66,10 @@ Global
 		{BB3A2F00-A3CD-42DB-9853-657B05C2CA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB3A2F00-A3CD-42DB-9853-657B05C2CA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB3A2F00-A3CD-42DB-9853-657B05C2CA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FDF3957-2CB0-4B29-8F3B-4BFF6E0E6DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDF3957-2CB0-4B29-8F3B-4BFF6E0E6DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDF3957-2CB0-4B29-8F3B-4BFF6E0E6DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDF3957-2CB0-4B29-8F3B-4BFF6E0E6DFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -71,6 +77,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{7260C985-9115-45A7-A9DD-5AF7533D1000} = {C834E22F-0511-4D33-8960-415104351B0D}
 		{BB3A2F00-A3CD-42DB-9853-657B05C2CA74} = {C834E22F-0511-4D33-8960-415104351B0D}
+		{9FDF3957-2CB0-4B29-8F3B-4BFF6E0E6DFF} = {C834E22F-0511-4D33-8960-415104351B0D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A8CAE089-C6F8-4D34-AD55-12CBADE5009A}
